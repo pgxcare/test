@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192" role="img" aria-labelledby="title desc">
+  <title id="title">PGxAI Calculator Icon</title>
+  <desc id="desc">Minimal calculator glyph on dark background</desc>
+  <rect width="192" height="192" fill="#000" rx="24" />
+  <rect x="28" y="28" width="136" height="136" fill="#0ff" opacity="0.08" rx="18" />
+  <rect x="48" y="48" width="96" height="24" fill="#0ff" rx="6" />
+  <rect x="48" y="84" width="44" height="24" fill="#0ff" rx="6" />
+  <rect x="100" y="84" width="44" height="24" fill="#0ff" rx="6" />
+  <rect x="48" y="120" width="44" height="24" fill="#0ff" rx="6" />
+  <rect x="100" y="120" width="44" height="24" fill="#0ff" rx="6" />
+  <rect x="96" y="64" width="24" height="64" fill="#0ff" rx="6" transform="rotate(90 108 96)" />
+</svg>
